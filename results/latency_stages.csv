@@ -1,0 +1,5 @@
+,mean_ms,median_ms,p95_ms,std_ms
+Query embedding (bi-encoder),9.44,10.44,11.55,2.32
+FAISS search (176 vectors),0.07,0.08,0.08,0.01
+Cross-encoder re-rank (10 pairs),304.36,340.29,368.61,82.33
+LLM generation (Gemini),1473.29,1310.9,3153.37,745.27

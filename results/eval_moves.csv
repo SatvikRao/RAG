@@ -1,0 +1,8 @@
+,count
+queries,114
+gold in top-10 (re-ranker can act),83
+promoted INTO top-3 (wins),11
+pushed OUT of top-3 (losses),6
+rank improved,25
+rank unchanged,40
+rank worsened,18

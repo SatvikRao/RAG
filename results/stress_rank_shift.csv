@@ -1,0 +1,13 @@
+id,category,query,gold_chunk,gold_page,baseline_rank,reranked_rank,rank_shift,in_top3_baseline,in_top3_reranked,baseline_top3,reranked_top3
+S1,Keyword trap,Will the policy pay for an ambulance to take me to the hospital?,C035,11,8,3.0,C035: #8 → #3,False,True,"C045, C023, C064","C023, C046, C035"
+S2,Keyword trap,Do I get money if I stay in a general ward?,C048,15,5,1.0,C048: #5 → #1,False,True,"C079, C033, C097","C048, C079, C020"
+S3,Keyword trap,Does the policy pay for a nurse to look after my elderly mother at home?,C098,30,4,1.0,C098: #4 → #1,False,True,"C116, C136, C064","C098, C037, C000"
+S4,Exception,I was injured in a car accident 10 days after buying the policy. Will my claim be paid?,C097,30,10,1.0,C097: #10 → #1,False,True,"C119, C121, C056","C097, C108, C121"
+S5,Exception,Are vaccinations after a dog bite covered?,C105,32,9,1.0,C105: #9 → #1,False,True,"C128, C049, C045","C105, C093, C045"
+S6,Negation,Is an ambulance from the hospital back to my home covered?,C035,11,6,2.0,C035: #6 → #2,False,True,"C047, C045, C023","C047, C035, C045"
+S7,Negation,Which children are not eligible for coverage?,C026,9,4,1.0,C026: #4 → #1,False,True,"C169, C170, C045","C026, C157, C175"
+S8,Negation,What is not allowed when submitting bills for a claim?,C142,44,9,2.0,C142: #9 → #2,False,True,"C136, C108, C140","C139, C142, C135"
+S9,Buried in list,Are injuries during military service covered?,C104,32,9,1.0,C104: #9 → #1,False,True,"C001, C097, C100","C104, C001, C071"
+S10,Buried in list,Which vaccinations are not excluded?,C105,32,4,1.0,C105: #4 → #1,False,True,"C157, C103, C168","C105, C103, C049"
+L1,Limitation: CE regression,Can my 26 year old son stay on the family floater policy?,C026,9,3,9.0,C026: #3 → #9,True,False,"C052, C042, C026","C055, C052, C043"
+L2,Limitation: recall ceiling,Is a hernia operation covered right away?,C095,29,35,,C095: #35 → not in top-10,False,False,"C098, C096, C045","C045, C097, C094"

@@ -1,0 +1,13 @@
+{
+  "chunks": 176,
+  "stress queries where re-ranking restored the gold chunk into top-3": "10 / 10",
+  "Hit@3 baseline -> re-ranked (114 queries)": "0.56 -> 0.60",
+  "MRR@10 baseline -> re-ranked": "0.480 -> 0.523",
+  "Recall@10 (ceiling for both)": "0.73",
+  "wins / losses (into / out of top-3)": "11 / 6",
+  "Answer grades, stress queries, baseline (C/P/I/NF)": "0/1/1/8",
+  "Answer grades, stress queries, re-ranked (C/P/I/NF)": "10/0/0/0",
+  "retrieval latency P1 -> P2 (mean ms)": "9.5 -> 313.9",
+  "LLM latency (mean ms)": "1473",
+  "cross-encoder ms per pair": "34.03"
+}

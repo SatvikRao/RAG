@@ -1,0 +1,5 @@
+,Answer 1 (baseline),Answer 2 (re-ranked)
+CORRECT,0,10
+PARTIAL,1,0
+INCORRECT,1,0
+NOT_FOUND,8,0

@@ -1,0 +1,192 @@
+{
+ "a5f1ddb4082d48d53294389c07fffa77f0ac0e29971936e6e82266d1ac3b7958": {
+  "text": "The policy defines an Ambulance as a motor vehicle equipped for transport and paramedical treatment [2]. However, the provided excerpts do not explicitly state whether the policy covers the costs of ambulance services. While \"Emergency Air Ambulance\" is mentioned as an optional cover [1], the details regarding coverage for standard ambulance transport are not found in the provided context.",
+  "ms": 1341.339282998888,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "b8c373670e37e75765ad8a7857fc83dc2a3e44f9650cbbceecf35674eb5a65e6": {
+  "text": "Yes, the policy covers road ambulance expenses for transfers to the nearest hospital for emergency care, between hospitals, or from a hospital to home within the same city [3]. Additionally, you may opt for Emergency Air Ambulance coverage, which covers airplane or helicopter transport if advised by a Medical Practitioner and if ground transport is insufficient [2]. Air ambulance is subject to the Sum Insured limit and requires the provider to be a registered entity in India [2].",
+  "ms": 1248.928513001374,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "d33eec614974cfd29421e0f15d846157ba9ef18501cec5e2794249d992c17105": {
+  "text": "```json\n{\"label\": \"NOT_FOUND\", \"reason\": \"Candidate claims the information is not found, but the clause explicitly covers it.\"}\n```",
+  "ms": 3452.3509419996117,
+  "model": "gemini-3.8-flash"
+ },
+ "13ad8a2e2dd2eed71bc4bf5d2b67b7bcc632741cddfac2a877f7203c798069d8": {
+  "text": "{\"label\": \"CORRECT\", \"reason\": \"Accurately confirms road ambulance coverage for emergency transport to the nearest hospital.\"}",
+  "ms": 1962.0212500012713,
+  "model": "gemini-3.8-flash"
+ },
+ "c76767f4e64b1a42f52e7e93f141ee9dd74de59c9e5b68000afc9b3fa199020a": {
+  "text": "Yes, you are covered for hospitalization expenses, including room rent, boarding, and nursing expenses [2]. The room rent limit is \"At Actuals\" unless otherwise specified in your Policy Schedule [2].",
+  "ms": 977.1016830000008,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "5a569c0410f4737d80ed23579cbf1d4a57e17207e7ba87020e810d61cf4c79e9": {
+  "text": "The policy provides a \"Daily Cash for Shared Room\" benefit if you are hospitalized in shared accommodation in a Network Provider Hospital for over 48 consecutive hours [1]. \n\nConditions:\n- The amount is specified in your Policy Schedule [1].\n- It is not payable for time spent in an Intensive Care Unit (ICU) [1].\n- The hospitalization claim must be admissible under Section B-1.1 [1]. \n\n\"General ward\" is not explicitly defined in the provided text.",
+  "ms": 1469.6003859990014,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "1a330453c0ea37ca523b12cafed072729869639ea6b9e103a4e0d1519dced362": {
+  "text": "```json\n{\"label\": \"INCORRECT\", \"reason\": \"Misses the specific Daily Cash benefit for shared rooms and discusses general room rent.\"}\n```",
+  "ms": 17509.34771500033,
+  "model": "gemini-3.8-flash"
+ },
+ "e1adbea30807ed24bdcf1c83a3882b38945240aa920696a96a3ea21d5a5fc77b": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Accurately details the shared accommodation daily cash benefit, requirements, and ICU exclusion.\"}\n```",
+  "ms": 4504.848577000303,
+  "model": "gemini-3.8-flash"
+ },
+ "bd2a6b3b48570ad55ed54a005aad0127bc38070735b1e5a5a9db6dd6475457aa": {
+  "text": "Not found in the provided context.",
+  "ms": 2865.9058729990647,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "58785849834c7fe7367eecab0b52e5481c2dee4025534c6343c54deba8718e03": {
+  "text": "No. The policy excludes expenses for custodial care, including help with activities of daily living (such as bathing or dressing) provided by skilled nurses or assistants [1]. While the policy covers Home Health Care, it is limited to medical treatment that would otherwise require in-patient hospitalization, provided it is prescribed by a doctor, pre-authorized by the company, and documented [2, 3].",
+  "ms": 1325.9095039993554,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "5834fc4e39136a2d360c28f285608f68dca590e14af05249db51c6db892cdc38": {
+  "text": "{\"label\": \"CORRECT\", \"reason\": \"Correctly states custodial care by nurses is excluded per the policy clause.\"}",
+  "ms": 35531.41459900144,
+  "model": "gemini-3.8-flash"
+ },
+ "814986e3ac1d2eafd117c955879a01dde50b8d4ae6b1e0bfc7bc02318531b349": {
+  "text": "Not found in the provided context.",
+  "ms": 715.2907180006878,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "c5f186d14593c2179ccab591713579fc5d170163bdc8dc52322a9a9bed3c8a43": {
+  "text": "Yes, your claim will be paid. Expenses related to the treatment of an illness within 30 days of the policy commencement are excluded; however, this exclusion does not apply to claims arising due to an accident, provided they are covered [1]. You must fulfill all policy terms and conditions for the company to admit liability for the claim [2].",
+  "ms": 1366.3747160007915,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "9535bc5a9c68138197171e0908958d307c85cc1487eb6318d38d6b74af70c007": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Correctly states that the 30-day exclusion does not apply to claims from an accident.\"}\n```",
+  "ms": 44294.94287499983,
+  "model": "gemini-3.8-flash"
+ },
+ "6a79d0a55e9217af36a1aa4d93585c9ad288c0be20da73aeb1a33c09afde3647": {
+  "text": "Not found in the provided context.",
+  "ms": 840.79825399931,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "758dda8b1f4d38fdafe94becbb4f8abdd61acaa4ad1c3d7cb8516a9ec13f47aa": {
+  "text": "Yes, vaccinations are covered following an animal bite. While vaccinations, inoculations, and immunizations are generally excluded from coverage, an exception is explicitly provided for post-animal bite treatment [1].",
+  "ms": 2243.868666999333,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "83481d70f4dffb3b7b9c75bc2a3fa3cc4b31e6d5b4e9f97d3903dcc2908bfa0e": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Accurately identifies the exception that covers vaccinations following an animal bite.\"}\n```",
+  "ms": 127014.40529299907,
+  "model": "gemini-3.8-flash"
+ },
+ "a2613c96bc7849cfbe226aad4266fe93aad44a3bbf7decb2b2495b5390e7dbcc": {
+  "text": "No, return transportation to the Insured Person’s Home or elsewhere by the air ambulance is not covered [1]. Additionally, the policy defines an ambulance as a motor vehicle equipped for the transport and paramedical treatment of a person requiring medical attention [3].",
+  "ms": 1697.7585090007778,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "4b7fa1910d1a6f0342345051408a01da2e8bdedf5d81b0ca0a94d223d0083caf": {
+  "text": "Road ambulance expenses are covered for transfers from a hospital to your home, provided the transfer occurs within the same city following hospitalization [2]. However, return transportation via air ambulance is not covered under the policy [1].",
+  "ms": 3433.474257999478,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "d5f5f905cb65fee325a18f0a72986b12346c2ea3f685de2be7d77988365737f0": {
+  "text": "```json\n{\"label\": \"INCORRECT\", \"reason\": \"Road ambulance from hospital to home within the same city is covered.\"}\n```",
+  "ms": 168588.59781999854,
+  "model": "gemini-3.8-flash"
+ },
+ "f8cce39f47cc7fe58e26c6e7887eeb1eaea3c4346bda6242deaab5e10713d811": {
+  "text": "{\"label\": \"CORRECT\", \"reason\": \"Accurately confirms road ambulance coverage from hospital to home within the same city.\"}",
+  "ms": 124210.99303899973,
+  "model": "gemini-3.8-flash"
+ },
+ "38f84d005ce38b5d8777f348743e6aea625bca32553bf3a3c2dde9c344ba566e": {
+  "text": "Not found in the provided context.",
+  "ms": 924.5099060008215,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "8ef8968689098fc4f1204851386b0852f5a22ba5163fb4da7697810a120427dc": {
+  "text": "Children who are financially independent and over 18 years of age are ineligible for coverage under this policy in subsequent renewals [1]. Additionally, children must be between the age of 90 days and 25 years to be considered eligible family members [1].",
+  "ms": 1426.3347830001294,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "3db98b05b7ae944bbb2c1bfd004d1b9632237c7b89fcfb35521784b73fc9fae0": {
+  "text": "```json",
+  "ms": 4298.338141001295,
+  "model": "gemini-3.8-flash"
+ },
+ "a39bd9912c1744e2f28f9954cdc99732f17d25aea46184284e3ebc00a81d7696": {
+  "text": "Not found in the provided context.",
+  "ms": 850.7624559988471,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "7360bd41d78a698beaa56ae8965062cef67ec0e04eedc9da0c9d99f5f895e0bd": {
+  "text": "The Company only accepts bills, invoices, and medical treatment-related documents that are in the name of the Insured Person for whom the claim is submitted [2]. If original documents were submitted to another insurer, you must provide copies and claim settlement advice duly certified by that insurer, subject to the Company's satisfaction [2].",
+  "ms": 896.1519340009545,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "b243d17925120252895bdd62731d26dd404d9fd28c09f3290b9fef0696763e83": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Accurately conveys rules on bills not allowed, including conditions for other insurer submissions.\"}\n```",
+  "ms": 4102.957979001076,
+  "model": "gemini-3.8-flash"
+ },
+ "5a3cf540494e33068a7ee31eafddf9e4037a4ec74fb1a5fb7c0c3aed06b1f65b": {
+  "text": "Not found in the provided context.",
+  "ms": 1550.5744799993408,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "f684cfc07b486aa5fa65f90ba6ef747dacc3f65694bbe6b8fac849d9e9e796c9": {
+  "text": "No, injuries sustained during military service are not covered. The policy excludes any insured person’s participation or involvement in naval, military, or air force operations [1]. Additionally, claims resulting from war, acts of war, or service in the armed forces of any country are specifically listed as exclusions [1].",
+  "ms": 1972.9331090002233,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "8d0955b2579b6868467a6118de1c907dffbd029c56404ea6cfeb962826900fa7": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Correctly identifies that participation or involvement in military operations is excluded.\"}\n```",
+  "ms": 4759.004530000311,
+  "model": "gemini-3.8-flash"
+ },
+ "afe0d30ac082f71f0179d902d087c5fff65b05a482f31efda23328997f3a4d07": {
+  "text": "Not found in the provided context.",
+  "ms": 793.4961840001051,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "5cec80da10345049dc3af5b668e5966fe1104117a57ed93dcc487a63ed398aac": {
+  "text": "Vaccinations are excluded, except for post-animal bite treatment [1].",
+  "ms": 1295.8846149995225,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "571e2c2ec93222e86582ec1ebd7d66698cd402c8ea155b4089ea9a9590ea2f5f": {
+  "text": "{\"label\": \"CORRECT\", \"reason\": \"Accurately identifies post-animal bite treatment as the exception to the exclusion.\"}",
+  "ms": 19045.9106849994,
+  "model": "gemini-3.8-flash"
+ },
+ "ab87dd55e85addd095fd2e09b446ea913c62905cb34c9b28b47625291dcb1701": {
+  "text": "No. According to the policy, \"Dependent Children\" are defined as those between the age of 90 days and 25 years [3]. Furthermore, if a child is above 18 years of age and financially independent, they are ineligible for coverage in subsequent renewals [3].",
+  "ms": 1023.8983759991243,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "7bf2b3f4303ee81f666730b295e3402f9ea9c8add798fcf1bdc95418d29e9eb8": {
+  "text": "Not found in the provided context.",
+  "ms": 777.0326219997514,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "2006f3808046c1c83fb6f673d3f0b5956076da3081f174e9caef78fae82056df": {
+  "text": "```json\n{\"label\": \"CORRECT\", \"reason\": \"Accurately states children are only covered up to age 25.\"}\n```",
+  "ms": 2085.0793950012303,
+  "model": "gemini-3.8-flash"
+ },
+ "baa30c95b6b204985e8ca475804cf4a5c808ca64ea644aa91afee7c9f641c773": {
+  "text": "Not found in the provided context.",
+  "ms": 1116.897459998654,
+  "model": "gemini-3.1-flash-lite"
+ },
+ "08ec02e41f0a3457373d189d8529878bfa33abfdadb7c3c9f340e66439d43545": {
+  "text": "Not found in the provided context.",
+  "ms": 3204.1017150004336,
+  "model": "gemini-3.1-flash-lite"
+ }
+}

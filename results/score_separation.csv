@@ -1,0 +1,3 @@
+,within-top-10 AUC,mean score range inside a top-10
+bi-encoder cosine,0.774,0.121
+cross-encoder logit,0.856,8.434

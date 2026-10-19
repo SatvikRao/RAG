@@ -1,0 +1,115 @@
+qid,query,gold_markers
+Q001,Will the policy pay for an ambulance to take me to the hospital?,Expenses incurred on road Ambulance
+Q002,Is a nose job covered?,Cosmetic or plastic Surgery
+Q003,Does the policy cover IVF for a couple trying to have a baby?,Sterility and Infertility;IVF treatments post waiting
+Q004,My father had a heart attack two years before buying the policy. When will his heart condition be covered?,pre-existing disease (PED) and its direct
+Q005,Can I get my glasses or LASIK eye surgery reimbursed?,"refractive error less than 7.5;hearing aids, spectacles"
+Q006,I was injured in a car accident 10 days after buying the policy. Will my claim be paid?,within 30 days from the first Policy commencement date
+Q007,Is knee replacement surgery covered in the first year of the policy?,Joint replacement surgeries
+Q008,Are pregnancy and childbirth expenses covered?,traceable to childbirth;Parenthood: Covers Maternity
+Q009,Can I get treatment at a hospital that HDFC ERGO has blacklisted?,Excluded Providers
+Q010,Will they pay for a wheelchair or crutches after my surgery?,"wheelchairs, crutches"
+Q011,What happens to my claim if I choose a hospital room more expensive than my plan allows?,Proportionate deduction on Room Rent
+Q012,What treatments are not covered under the emergency global health cover abroad?,Oncological (Cancer) diseases
+Q013,When will the company not refund my premium if I cancel the policy?,no refunds of premium
+Q014,Is outpatient treatment covered?,Treatment taken on outpatient basis;various outpatient benefits
+Q015,Can my 26 year old son stay on the family floater policy?,between the Age 90 days to Age 25
+Q016,How long does the company have to settle my claim and what if it pays late?,2% above the bank rate
+Q017,Does the aggregate deductible apply to the preventive health check-up?,Aggregate Deductible is not applicable to Sections B-2.8
+Q018,How many days before admission are pre-hospitalization expenses covered?,upto 60 days unless otherwise
+Q019,Is treatment for alcohol addiction covered?,"Alcoholism, drug or substance abuse"
+Q020,Will the insurer pay for injuries from skydiving?,Hazardous or Adventure Sports
+Q021,Is attempted suicide covered?,attempting to commit intentional self-injury
+Q022,Does the policy pay for vaccinations?,Vaccination including inoculation
+Q023,Is dental treatment covered?,In patient Care Dental Treatment
+Q024,Are the hospital food and laundry charges paid?,"laundry charges, attendant charges"
+Q025,How soon must I inform the insurer about a planned hospitalization?,48 hours prior to admission
+Q026,What if I miss my premium payment due date?,Grace Period means
+Q027,Can the insurer reject my claim after 5 years for not disclosing a disease?,sixty continuous months
+Q028,Is cataract surgery covered immediately?,Cataract and other disorders
+Q029,Is treatment for a dog bite injection covered?,except post animal bite treatment
+Q030,Can I claim for treatment at home if no hospital bed is available?,non-availability of room in a Hospital
+Q031,Is miscarriage covered?,miscarriage (unless due to an accident)
+Q032,Is a cochlear implant covered?,cochlear implant(s) unless necessitated
+Q033,Does the 30-day waiting period apply if I was already insured for over a year?,continuous coverage for more than twelve months
+Q034,Can I get cancer treatment abroad under the emergency global health cover?,Oncological (Cancer) diseases
+Q035,"After an overseas hospitalization, are my follow-up expenses in India paid?",incurred in India shall not
+Q036,What is not covered under organ donor expenses?,organ transportation or preservation
+Q037,When is the air ambulance not covered?,No return transportation
+Q038,Is the daily cash for shared room paid for days spent in the ICU?,not available for the time spent
+Q039,Is my claim paid if I am admitted to hospital only for tests?,primarily for diagnostics and evaluation
+Q040,Are vitamins and supplements covered?,Dietary supplements
+Q041,Is treatment in an ayurvedic hospital covered?,AYUSH Treatment The Company shall indemnify
+Q042,Is the restored sum insured usable for the same illness again?,even for the same illness
+Q043,Can I use the Secure Benefit before my base sum insured runs out?,only after exhaustion of Base Sum Insured
+Q044,Will the company pay if a claim is made by fraud?,fraudulent
+Q045,Will my tooth extraction be paid for?,In patient Care Dental Treatment
+Q046,Will my hernia surgery be paid if I bought the policy six months ago?,"Tympanoplasty, Mastoidectomy Hernia;Hernia"
+Q047,Is self-harm covered by the policy?,attempting to commit intentional self-injury
+Q048,Is the treatment of a road accident victim at a blacklisted hospital paid?,expenses up to the stage of stabilization
+Q049,Is a hairline fracture treatment covered under the spinal manipulation exclusion?,excluding hairline fractures
+Q050,Can I port my policy to another insurer anytime?,"at least 30 days before, but not earlier than 60 days"
+Q051,How much is the per claim deductible for overseas treatment?,"Per Claim Deductible of Rs. 10,000"
+Q052,Within how many days must I submit documents for reimbursement after discharge?,Within 30 days of date of discharge
+Q053,How long is a cashless pre-authorization valid?,valid for 15 days
+Q054,Is home treatment covered on reimbursement basis?,not available on reimbursement basis
+Q055,Are vaccinations after a dog bite covered?,except post animal bite treatment
+Q056,Is an ambulance from the hospital back to my home covered?,from Hospital to Home
+Q057,Are injuries during military service covered?,"naval, military or air force operation;caused during service in the armed forces"
+Q058,Is plastic surgery covered?,"Plastic Surgery, necessitated due to Injury;Cosmetic or plastic Surgery"
+Q059,Is a hernia operation covered right away?,"Tympanoplasty, Mastoidectomy Hernia"
+Q060,Is a doctor who is my family member treating me covered?,sharing the same residence
+Q061,Can I cancel my policy and get a refund?,7 days’ written notice
+Q062,Can an insurance agent change the terms of my policy?,cannot be modified by anyone
+Q063,Who is not authorised to receive notices on behalf of the company?,not authorised to receive
+Q064,Which hospitals am I not allowed to get cashless treatment at?,Cashless facility can be availed only at
+Q065,Is my 19 year old daughter who has started working still eligible for cover?,financially independent
+Q066,I was in a car accident 10 days after buying the policy. Will my claim be paid?,within 30 days from the first Policy commencement date
+Q067,Is there any waiting period for claims due to an accident?,not be applicable for claims arising due to an Accident;except claims arising due to an accident
+Q068,Which plans are not allowed to choose the 1% room rent limit?,except Optima Lite plan
+Q069,Is the room rent capped under the Optima Lite plan?,1% of base sum insured per day
+Q070,Is maternity covered?,traceable to childbirth;Parenthood: Covers Maternity
+Q071,Will the insurer pay for a hospital that is blacklisted by the company?,Excluded Providers
+Q072,Does the policy cover glasses?,"hearing aids, spectacles"
+Q073,Is cosmetic surgery after a burn covered?,"reconstruction following an Accident, Burn"
+Q074,Is IVF covered?,Sterility and Infertility;IVF treatments post waiting
+Q075,How many days after discharge are post-hospitalization expenses covered?,180 days unless
+Q076,Which injuries are not covered if I am in the army?,"naval, military or air force operation"
+Q077,Is it prohibited to get cashless treatment at a hospital outside the network?,Cashless facility can be availed only at
+Q078,Which vaccinations are not excluded?,except post animal bite treatment
+Q079,Which sports injuries are not covered?,Hazardous or Adventure Sports
+Q080,What is not paid if I take a bigger room than my plan allows?,Proportionate deduction on Room Rent
+Q081,Is a war injury not covered?,War or any act of war
+Q082,What can I not claim during the first 30 days of the policy?,within 30 days from the first Policy commencement date
+Q083,Which children are not eligible for coverage?,financially independent
+Q084,Is a relative who is a doctor not allowed to treat me under this policy?,sharing the same residence
+Q085,Who is not considered a medical practitioner under this policy?,sharing the same residence
+Q086,Which hospital expenses are not reimbursed even if I am admitted?,food charges (other than patient’s diet
+Q087,Are diagnostic tests not related to my illness excluded?,not related or not incidental to the current diagnosis
+Q088,What is not allowed when submitting bills for a claim?,only in the Insured Person’s name
+Q089,Is the air ambulance not available for the return trip home?,No return transportation
+Q090,Is a claim not payable if treatment abroad starts after 45 days of the trip?,not commenced within the first 45 days
+Q091,Which items cannot be claimed as non-medical expenses?,BABY FOOD
+Q092,Is the Secure Benefit not carried forward to next year?,will not be carried forward
+Q093,Is preventive health check-up not available with a 5 lakh deductible?,Aggregate Deductible of INR 5 Lakhs
+Q094,Can my agent or broker not accept notices on behalf of the insurer?,not authorised to receive
+Q095,Which treatments are not covered for orthopedic conditions abroad?,orthopedic diseases or conditions except for fractures
+Q096,Is ICU room charge not subject to proportionate deduction?,Proportionate deduction shall not be applicable to ‘ICU charges’
+Q097,Is miscarriage not covered unless it is due to an accident?,miscarriage (unless due to an accident)
+Q098,Will the insurer not pay for treatment in a spa or nature cure clinic?,"health hydros, nature cure clinics"
+Q099,Is a pregnancy outside the uterus covered?,except ectopic pregnancy
+Q100,Is laser eye surgery for short-sightedness covered?,refractive error less than 7.5
+Q101,Does the policy pay for a nurse to look after my elderly mother at home?,Custodial care either at home
+Q102,Will they reimburse my taxi fare to the hospital?,CONVEYANCE CHARGES
+Q103,Is a C-section delivery covered?,caesarean sections;Parenthood: Covers Maternity
+Q104,Are hospital bills for a kidney stone covered in the first year?,Kidney stone
+Q105,Is my newborn baby covered?,between the Age 90 days
+Q106,Does the policy pay for an attendant staying with me in hospital?,attendant charges
+Q107,What if the hospital charges more than other hospitals nearby?,no more than other hospitals or doctors in the same locality
+Q108,Is a nursing home with 8 beds counted as a hospital?,at least 10 in-patient beds
+Q109,Do I get money if I stay in a general ward?,Daily Cash for Shared Room
+Q110,Will my bypass surgery abroad be paid in rupees or dollars?,rate of exchange
+Q111,Is chemotherapy covered if I am treated at home?,Home Health Care
+Q112,Can I get reimbursed for buying a thermometer and gloves?,THERMOMETER
+Q113,Will the insurer pay for my heart surgery if I had chest pain before buying the policy?,pre-existing disease (PED) and its direct
+Q114,Are piles surgery costs covered immediately?,Haemorrhoids
